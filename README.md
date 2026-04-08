@@ -48,7 +48,7 @@ STM32-based Event Data Recorder for real-time vehicle parameter monitoring with 
 
 ---
 
-### 🌡️ [Edge-AI Predictive Maintenance System](link-to-repo)
+### 🌡️ [Edge-AI Predictive Maintenance System](https://github.com/sanjaykizhakkeel/AC-Predictive-Maintenance-EdgeAI)
 Real-time AC monitoring system with edge-AI for predictive fault detection (>96% accuracy target).
 
 **Tech Stack:** Edge-AI | Machine Learning | STM32 | Real-time Systems
