@@ -17,14 +17,15 @@
 **Microcontrollers & Boards:**  
 - ARM Cortex (STM32)
 - ESP32
-- Arduino
+- Psoc 6
 
 **Protocols & Communication:**  
 - I2C, UART, SPI, CAN
-- BLE, MQTT
+- BLE, MQTT ,TCP/IP
 
 **Tools & IDEs:**  
 - STM32CubeIDE
+- Modustoolbox
 - Arduino IDE
 - VS Code
 
