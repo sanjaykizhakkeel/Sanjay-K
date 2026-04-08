@@ -34,10 +34,10 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Patient Assistant Robot](link-to-repo)
-ESP32-controlled 17-servo humanoid robot with real-time glucose monitoring using ML algorithms and IoT connectivity.
+### 🌡️ [Edge-AI Predictive Maintenance System](https://github.com/sanjaykizhakkeel/AC-Predictive-Maintenance-EdgeAI)
+Real-time AC monitoring system with edge-AI for predictive fault detection (>96% accuracy target).
 
-**Tech Stack:** ESP32 | Machine Learning | IoT | Python
+**Tech Stack:** Edge-AI | Machine Learning | STM32 | Real-time Systems
 
 ---
 
@@ -48,10 +48,10 @@ STM32-based Event Data Recorder for real-time vehicle parameter monitoring with 
 
 ---
 
-### 🌡️ [Edge-AI Predictive Maintenance System](https://github.com/sanjaykizhakkeel/AC-Predictive-Maintenance-EdgeAI)
-Real-time AC monitoring system with edge-AI for predictive fault detection (>96% accuracy target).
+### 🤖 [Patient Assistant Robot](link-to-repo)
+ESP32-controlled 17-servo humanoid robot with real-time glucose monitoring using ML algorithms and IoT connectivity.
 
-**Tech Stack:** Edge-AI | Machine Learning | STM32 | Real-time Systems
+**Tech Stack:** ESP32 | Machine Learning | IoT | Python
 
 ---
 
